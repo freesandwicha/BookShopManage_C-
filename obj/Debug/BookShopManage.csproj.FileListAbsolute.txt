@@ -1,0 +1,15 @@
+G:\Vs_Studio\BookShopManage\BookShopManage\bin\Debug\BookShopManage.exe.config
+G:\Vs_Studio\BookShopManage\BookShopManage\bin\Debug\BookShopManage.exe
+G:\Vs_Studio\BookShopManage\BookShopManage\bin\Debug\BookShopManage.pdb
+G:\Vs_Studio\BookShopManage\BookShopManage\obj\Debug\BookShopManage.csproj.AssemblyReference.cache
+G:\Vs_Studio\BookShopManage\BookShopManage\obj\Debug\BookShopManage.csproj.SuggestedBindingRedirects.cache
+G:\Vs_Studio\BookShopManage\BookShopManage\obj\Debug\BookShopManage.Books.resources
+G:\Vs_Studio\BookShopManage\BookShopManage\obj\Debug\BookShopManage.DashBoard.resources
+G:\Vs_Studio\BookShopManage\BookShopManage\obj\Debug\BookShopManage.Login.resources
+G:\Vs_Studio\BookShopManage\BookShopManage\obj\Debug\BookShopManage.Splash.resources
+G:\Vs_Studio\BookShopManage\BookShopManage\obj\Debug\BookShopManage.Properties.Resources.resources
+G:\Vs_Studio\BookShopManage\BookShopManage\obj\Debug\BookShopManage.Users.resources
+G:\Vs_Studio\BookShopManage\BookShopManage\obj\Debug\BookShopManage.csproj.GenerateResource.cache
+G:\Vs_Studio\BookShopManage\BookShopManage\obj\Debug\BookShopManage.csproj.CoreCompileInputs.cache
+G:\Vs_Studio\BookShopManage\BookShopManage\obj\Debug\BookShopManage.exe
+G:\Vs_Studio\BookShopManage\BookShopManage\obj\Debug\BookShopManage.pdb
